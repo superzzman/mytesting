@@ -7,7 +7,7 @@
     "title": "",
     "description": "跟自己在體內緊密相連十個月的孩子終於出生了，香香說，她從未試過這樣深愛着另一個人。她承諾會和丈夫⼀起盡最大的努力保護、引導孩子成長。所以在等待的日子，她會束起洋蔥髮髻，穿淡粉色碎花睡衣啃育嬰書。",
     "Instagram":{
-      "hideCaption": "false"
+      "hideCaption": "false",
       "block": "https://www.instagram.com/p/BXFTAZTBELn"
     }
   },
@@ -41,7 +41,7 @@
     "title": "",
     "description": "跟自己在體內緊密相連十個月的孩子終於出生了，香香說，她從未試過這樣深愛着另一個人。她承諾會和丈夫⼀起盡最大的努力保護、引導孩子成長。所以在等待的日子，她會束起洋蔥髮髻，穿淡粉色碎花睡衣啃育嬰書。",
     "Html":{
-      "block": "<div style="font-size:40px;">Hello!</div>"
+      "block": "<div style=\"font-size:40px;\">Hello!</div>"
     }
   },
   {
