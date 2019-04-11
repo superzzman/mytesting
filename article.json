@@ -47,5 +47,23 @@
     },
     "theme": "theme1"
   },
-  "photoCredit": "Instagram@heungheungeliza"
+  "photoCredit": "Instagram@heungheungeliza",
+  "nextArticle": "1040",
+  "subpages":[
+    {
+      "type": "image"
+    },
+    {
+      "type": "video"
+    },
+    {
+      "type": "htmlBlock"
+    },
+    {
+      "type": "gallery"
+    },
+    {
+      "type": "polling"
+    }
+  ]
 }
