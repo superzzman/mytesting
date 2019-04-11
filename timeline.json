@@ -51,8 +51,8 @@
   "timeline": {
     "title": "TIMELINE",
     "notification": {
-      start: '1554681600000',
-      end: '1554681600000'
+      "start": "1554681600000",
+      "end": "1554681600000"
     }
   }
 }
