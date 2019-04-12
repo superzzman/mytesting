@@ -1,5 +1,5 @@
-[
-  {
+{
+  "Instagram": {
     "type": "htmlBlock",
     "date": "11 Apr 2019",
     "time": "19:22",
@@ -11,7 +11,7 @@
       "block": "https://www.instagram.com/p/BXFTAZTBELn"
     }
   },
-  {
+  "Facebook": {
     "type": "htmlBlock",
     "date": "11 Apr 2019",
     "time": "19:22",
@@ -22,7 +22,7 @@
       "block": "https://www.facebook.com/youtube/posts/263448407081695"
     }
   },
-  {
+  "Twitter": {
     "type": "htmlBlock",
     "date": "11 Apr 2019",
     "time": "19:22",
@@ -33,7 +33,7 @@
       "block": "https://twitter.com/kearth101/status/960978395524775936"
     }
   },
-  {
+  "Html": {
     "type": "htmlBlock",
     "date": "11 Apr 2019",
     "time": "19:22",
@@ -44,7 +44,7 @@
       "block": "<div style=\"font-size:40px;\">Hello!</div>"
     }
   },
-  {
+  "ELLE Article": {
     "type": "htmlBlock",
     "date": "11 Apr 2019",
     "time": "19:22",
@@ -64,4 +64,4 @@
       },
     }
   }
-]
+}
