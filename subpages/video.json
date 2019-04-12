@@ -1,5 +1,5 @@
-{[
-  {
+{
+  "Youtube": {
     "type": "video",
     "name": "岑麗香,產後穿搭",
     "title": "",
@@ -15,7 +15,7 @@
       }
     }    
   },
-  {
+  "Video": {
     "type": "video",
     "name": "岑麗香,產後穿搭",
     "title": "",
@@ -31,7 +31,7 @@
       }
     }    
   },
-  {
+  "Brightcove": {
     "type": "video",
     "name": "岑麗香,產後穿搭",
     "title": "",
@@ -45,4 +45,4 @@
       "autoplay": "No"
     }    
   }
-]}
+}
