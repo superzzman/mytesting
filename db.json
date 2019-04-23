@@ -39,11 +39,11 @@
        "brands": "zenith" 
     },
     "keyVisual": {
-      "desktop": {
+      "mobile": {
         "src": "https://images.wallpapersden.com/image/download/avengers-endgame-2019-movie_64330_640x1136.jpg",
         "alt": "岑麗香,產後穿搭"
       },
-      "mobile": {
+      "desktop": {
         "src": "https://www.elle.com.hk/var/ellehk/storage/images/fashion/celeb_style/eliza-sam-style-after-giving-birth/29867542-1-chi-HK/Jacob_img_885_590.jpg",
         "alt": "岑麗香,產後穿搭"
       },
