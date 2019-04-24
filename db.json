@@ -71,7 +71,7 @@
         }
       },
       {
-        "type": "htmlBlock",
+        "type": "html_block",
         "date": "11 Apr 2019",
         "time": "19:22",
         "name": "",
@@ -83,7 +83,7 @@
         }
       },
       {
-        "type": "video",
+        "type": "video_block",
         "name": "岑麗香,產後穿搭",
         "title": "《權力遊戲》（Game of Thrones）Gwendoline Christie",
         "date": "11 Apr 2019",
