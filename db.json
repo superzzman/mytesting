@@ -117,7 +117,7 @@
         "item":{
           "type": "Html",
           "hideCaption": "false",
-          "block": '<div style="width:800px;height:85vw;max-width:100%;max-height:540px;margin:auto;"><iframe src="//scmpsurveys_cosmo.ultrasite.io/survey/copy-of-poll-1-1" width="100%" height="100%" sandbox="allow-scripts allow-same-origin allow-forms allow-modals" allowfullscreen style="border:none;width:1px;min-width:100%;height:1px;min-height:100%;" scrolling="no"></iframe></div>'
+          "block": ""
         }
       },
       {
@@ -127,7 +127,7 @@
         "date": "11 Apr 2019",
         "time": "19:18",
         "description": "水行俠Jason Momoa於劇中飾演馬王Khal Drogo，這次更與現實中老婆Lisa一同出席首映。",
-        "credit": "",
+        "credit": "<div style=\"width:800px;height:85vw;max-width:100%;max-height:540px;margin:auto;\"><iframe src=\"//scmpsurveys_cosmo.ultrasite.io/survey/copy-of-poll-1-1\" width=\"100%\" height=\"100%\" sandbox=\"allow-scripts allow-same-origin allow-forms allow-modals\" allowfullscreen style=\"border:none;width:1px;min-width:100%;height:1px;min-height:100%;\" scrolling=\"no\"></iframe></div>",
         "Youtube": {
           "id": "dQw4w9WgXcQ",
           "image": {
