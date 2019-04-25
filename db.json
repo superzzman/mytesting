@@ -152,6 +152,21 @@
             "alt": "Beauty Trends: Dior射燈下的星魅底妝"
           }
         }    
+      },
+      {
+        "type": "video_block",
+        "name": "Beauty Trends: Dior射燈下的星魅底妝",
+        "title": "Beauty Trends: Dior射燈下的星魅底妝",
+        "date": "11 Apr 2019",
+        "time": "19:18",
+        "description": "女星們在射燈之下，肌膚展現出美艷光芒，散發完美無瑕的氣息。其實只要選擇合適粉底，也可以輕易造出完美的妝容。星級化妝師Jonathan以全新Diorskin Star Fluid Foundation粉底，教你何打造妝效持久完美底妝，令皮膚如在射燈下亮麗迷人。",
+        "credit": "Beauty Trends: Dior射燈下的星魅底妝",
+        "item": {
+          "type": "Brightcove",
+          "id": "6003683821001",
+          "ratio": "Landscape (16:9)",
+          "autoPlay": "Yes & muted"
+        }    
       }
     ]
   }
