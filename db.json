@@ -127,11 +127,29 @@
         "time": "19:18",
         "description": "水行俠Jason Momoa於劇中飾演馬王Khal Drogo，這次更與現實中老婆Lisa一同出席首映。",
         "credit": "《權力遊戲》",
-        "Youtube": {
+        "item": {
+          "type": "Youtube",
           "id": "dQw4w9WgXcQ",
           "image": {
             "src": "http://dev-img.elle.com.hk/var/ellehk/storage/images/fashion/celeb_style/game-of-thrones-cast-season-8-premiere-red-carpet/node_1742442/29866322-1-chi-HK/8-lisa-bonet-and-jason-momoa-attend-the-game-of-thrones-news-photo-1140236424-1554402857_img_885_590.jpg",
             "alt": "《權力遊戲》（Game of Thrones）Gwendoline Christie 勇猛女戰士Brienne of Tarth"
+          }
+        }    
+      },
+      {
+        "type": "video_block",
+        "name": "Beauty Trends: Dior射燈下的星魅底妝",
+        "title": "Beauty Trends: Dior射燈下的星魅底妝",
+        "date": "11 Apr 2019",
+        "time": "19:18",
+        "description": "女星們在射燈之下，肌膚展現出美艷光芒，散發完美無瑕的氣息。其實只要選擇合適粉底，也可以輕易造出完美的妝容。星級化妝師Jonathan以全新Diorskin Star Fluid Foundation粉底，教你何打造妝效持久完美底妝，令皮膚如在射燈下亮麗迷人。",
+        "credit": "Beauty Trends: Dior射燈下的星魅底妝",
+        "item": {
+          "type": "Video",
+          "id": "http://dev-api.elle.com.hk/var/ellehk/storage/original/video/35265c9c139e61258af535fb6c9f6144.mp4",
+          "image": {
+            "src": "http://dev-img.elle.com.hk/var/ellehk/storage/images/elletv/beauty/beauty-class/dior-skinstar-fluid-foundation-demo/14346851-1-chi-HK/Beauty-Trends-Dior_img_885_590.jpg",
+            "alt": "Beauty Trends: Dior射燈下的星魅底妝"
           }
         }    
       }
